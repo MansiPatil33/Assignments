@@ -1,0 +1,23 @@
+
+.container{
+    border: 2px solid;
+    border-color:black;
+    
+    margin: 50px;
+   
+
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+.Grid-list{
+    display: grid;
+    border: 1px solid;
+    padding: 5px;
+}
+.p{
+    padding: 10px;
+    text-align: center;
+}
