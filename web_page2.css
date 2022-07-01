@@ -1,0 +1,57 @@
+.navbar {
+    background-color: black;
+    overflow: hidden;
+    padding: 20px;
+
+}
+
+.navbar a {
+    color: aqua;
+    font-size: 18px;
+    padding: 3px;
+    text-decoration: none;
+}
+
+.flex-container {
+    width: 100%;
+    display: flexbox;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+
+.one {
+    display: inline-block;
+    background-color: yellow;
+    height: 15cm;
+    width: 15%;
+    float: left;
+    padding: 10px;
+
+}
+
+.Two {
+    background-color: yellow;
+    height: 15cm;
+    width: 15%;
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    margin: top 10px;
+    margin-bottom: 10px;
+
+}
+
+.footer {
+    background-color: black;
+    padding: 5px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+
+}
